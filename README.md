@@ -1,0 +1,1 @@
+This notebook examines the January 2018 flooding of the oldtown of Cologne by inspecting and comparing three datasets: Local in-situ water gauge (beloved Kölner Pegel), reforecasted and historical river discharge datasets from EFAS (European Flood Awareness System).
