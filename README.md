@@ -2,5 +2,5 @@ This notebook examines the January 2018 flooding of the oldtown of Cologne by in
 <p align="center">
   <img src="images/Jan18Flood_mainresult.png" width="800">
   <br>
-  <em>Main result of the study: Comparing water discharge during the flooding period calculated using different datasets.</em>
+  <em>Main result of the study: Comparing water height during the flooding period calculated using different datasets.</em>
 </p>
